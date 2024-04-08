@@ -1,0 +1,2 @@
+module AuthoresHelper
+end
